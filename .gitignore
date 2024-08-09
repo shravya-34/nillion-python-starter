@@ -8,5 +8,5 @@ quickstart_complete/nada_quickstart_programs/target
 .idea
 .DS_Store
 *.key
-
 .venv
+Python-3.12.5

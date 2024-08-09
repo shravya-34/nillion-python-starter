@@ -1,0 +1,10 @@
+---
+program: main
+inputs:
+  A:
+    SecretInteger: "3"
+  B:
+    SecretInteger: "3"
+expected_outputs:
+  my_output:
+    SecretInteger: "3"
